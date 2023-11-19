@@ -4,7 +4,7 @@
 
 local jb = game.PlaceId == 606849621 or game.PlaceId == 6898041828
 if not jb then
-    error("ice tray can only load in Jailbreak")
+    error("ice tray skidded can only load in Jailbreak")
 end
 
 local global = {
